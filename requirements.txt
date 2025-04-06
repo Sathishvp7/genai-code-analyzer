@@ -1,0 +1,10 @@
+langchain-google-genai
+langchain-community
+pillow
+google-generativeai
+tiktoken 
+chromadb
+langchain
+flask
+GitPython
+python-dotenv
