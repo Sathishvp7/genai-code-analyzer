@@ -61,5 +61,5 @@ Now,
 open up localhost: http://127.0.0.1:8080
  or  http://192.168.1.7:8080
 ```
-
+### NOTE - artifacts - Holds code repo(Code which you want to analyzse and data holds embedded info with help of ChromaDB)
 ### I have utilized the Google Gemini Open Source API for this project. However, you can choose to use any API that suits your needs, including the OpenAI API or Hugging Face models.
