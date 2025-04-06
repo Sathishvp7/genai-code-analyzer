@@ -3,8 +3,7 @@ langchain-community
 pillow
 google-generativeai
 tiktoken 
-pysqlite3-binary
-chromadb
+chromadb==0.6.3
 langchain
 flask
 GitPython
