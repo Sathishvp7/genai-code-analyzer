@@ -3,6 +3,7 @@ langchain-community
 pillow
 google-generativeai
 tiktoken 
+pysqlite3-binary
 chromadb
 langchain
 flask
